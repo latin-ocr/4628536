@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4628536_0003.png"; bbox 0 0 1870 1870; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 419 1856 1185">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 419 1856 1185">
+     <span class='ocr_line' id='line_1_1' title="bbox 3 419 1856 553; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 3 431 370 553; x_wconf 88' lang='lat' dir='ltr'>TLE:</span> <span class='ocrx_word' id='word_1_2' title='bbox 524 429 730 551; x_wconf 82' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_3' title='bbox 781 419 1856 551; x_wconf 80' lang='lat' dir='ltr'>terminationum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 634 1149 764; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 634 279 764; x_wconf 52' lang='lat' dir='ltr'>ftiae</span> <span class='ocrx_word' id='word_1_5' title='bbox 335 636 1149 764; x_wconf 78' lang='lat' dir='ltr'>Graecorum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 5 838 1726 975; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 5 843 755 975; x_wconf 81' lang='lat' dir='ltr'>clinationis</span> <span class='ocrx_word' id='word_1_7' title='bbox 807 838 1726 971; x_wconf 78' lang='lat' dir='ltr'>vicissitudine</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1050 1212 1185; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 1053 573 1185; x_wconf 67' lang='lat' dir='ltr'>{sertatio</span> <span class='ocrx_word' id='word_1_9' title='bbox 633 1050 1212 1182; x_wconf 79' lang='lat' dir='ltr'>secunda</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 589 385 601">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 589 385 601">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 589 385 601; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 589 385 601; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1679 1362 1862">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1679 1362 1862">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 1679 1362 1862; baseline -0.004 -50"><span class='ocrx_word' id='word_1_11' title='bbox 0 1687 459 1862; x_wconf 55' lang='lat' dir='ltr'><em>Q</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 508 1679 1362 1848; x_wconf 78' lang='lat' dir='ltr'>Regiomonti</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
